@@ -1,5 +1,8 @@
 ## Hi there 👋
+[![codewars](https://www.codewars.com/users/alinidi/badges/large)](https://www.codewars.com/users/alinidi)  
 
+## My skills
+[![My Skills](https://skillicons.dev/icons?i=github,js,ts,html,css,sass,react,redux,nextjs,npm,postman)](https://skillicons.dev)
 <!--
 **alinidi/alinidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
